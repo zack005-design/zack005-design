@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">Zack — thoughtful interfaces, useful experiences</title>
+<title id="title">Zack — app development</title>
 <desc id="desc">A midnight blue banner with violet and teal gradients, colorful orbit lines, and a crisp introduction.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15132f"/><stop offset=".55" stop-color="#172345"/><stop offset="1" stop-color="#123b46"/></linearGradient>
@@ -14,16 +14,16 @@
 <circle r="72" stroke="#5eead4" stroke-opacity=".45"/>
 <ellipse rx="145" ry="48" transform="rotate(-32)" stroke="url(#accent)" stroke-width="2"/>
 <ellipse rx="145" ry="48" transform="rotate(32)" stroke="#60a5fa" stroke-opacity=".35"/>
-<path d="m-24-16-17 16 17 16m48-32 17 16-17 16m-18-42-12 52" stroke="#c4b5fd" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-22" y="-38" width="44" height="76" rx="9" stroke="#c4b5fd" stroke-width="3"/><path d="M-7-28h14M-5 28h10" stroke="#5eead4" stroke-width="3" stroke-linecap="round"/>
 <circle cx="113" cy="-65" r="8" fill="#5eead4" stroke="none"/>
 <circle cx="-82" cy="-67" r="5" fill="#fda4af" stroke="none"/>
 <circle cx="37" cy="99" r="6" fill="#a78bfa" stroke="none"/>
 </g>
 <g font-family="Segoe UI, Arial, sans-serif">
 <rect x="60" y="55" width="6" height="22" rx="3" fill="#5eead4"/>
-<text x="80" y="72" font-size="17" font-weight="600" letter-spacing="3" fill="#a5c7df">DESIGN + DEVELOPMENT</text>
+<text x="80" y="72" font-size="17" font-weight="600" letter-spacing="3" fill="#a5c7df">APP DEVELOPMENT</text>
 <text x="58" y="164" font-size="78" font-weight="750" letter-spacing="-3" fill="#f8fafc">Hi, I'm Zack.</text>
-<text x="62" y="214" font-size="27" fill="#d8e2f2">Thoughtful interfaces. Useful experiences.</text>
-<text x="62" y="271" font-size="17" fill="#9fbbd3" letter-spacing="1">BUILDING TALLY  /  FINANCE + DESIGN</text>
+<text x="62" y="214" font-size="27" fill="#d8e2f2">Building apps. Refining ideas.</text>
+<text x="62" y="271" font-size="17" fill="#9fbbd3" letter-spacing="1">FITX  /  TASKLINE  /  TALLY</text>
 </g>
 </svg>
