@@ -1,35 +1,39 @@
-# Hi, I'm Zack
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Hi, I'm Zack. Thoughtful interfaces. Useful experiences." width="100%" />
+</p>
 
-### Building thoughtful web experiences.
+<p align="center">
+  I build web experiences that bring clear design and useful interactions together.
+</p>
 
-I build web interfaces with a focus on clear design, useful interactions, and the details that make an app feel good to use.
+<p align="center">
+  <a href="https://zack005-design.github.io/webpage/"><b>Explore PixelNest ↗</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/zack005-design?tab=repositories">Browse my projects</a>
+</p>
 
-[Explore PixelNest](https://zack005-design.github.io/webpage/) · [Browse my projects](https://github.com/zack005-design?tab=repositories)
-
----
-
-## Featured project
+## ✦ Featured work
 
 ### [PixelNest](https://github.com/zack005-design/webpage)
+**A home for your next idea.**
 
-A visual discovery app for exploring inspiration and organizing ideas into boards.
+A visual discovery app for browsing inspiration, collecting ideas into boards, and adding your own images.
 
-- Responsive masonry browsing with search and filters.
-- Collections, image uploads, and appearance preferences.
-- Built with React, TypeScript, Vite, and Framer Motion.
+- **Discover** — responsive masonry browsing, search, and filters.
+- **Collect** — boards, saved ideas, and image uploads.
+- **Make it yours** — appearance preferences and thoughtful motion.
 
-[View the demo](https://zack005-design.github.io/webpage/) · [Explore the source](https://github.com/zack005-design/webpage)
+`React` · `TypeScript` · `Vite` · `Framer Motion`
 
-## What I work with
+[**Try the demo ↗**](https://zack005-design.github.io/webpage/) &nbsp; · &nbsp; [View the code](https://github.com/zack005-design/webpage)
 
-**Web:** React · TypeScript · HTML · CSS  
-**Tools:** Vite · Git · GitHub  
-**Interface design:** Responsive layouts · Framer Motion · Lucide icons
+## ◈ My toolkit
 
-## What I'm focused on
+| Build | Design & interaction | Workflow |
+| :--- | :--- | :--- |
+| React · TypeScript | Responsive layouts | Git · GitHub |
+| HTML · CSS | Framer Motion · Lucide | Vite |
 
-Turning ideas into usable interfaces, refining interactions, and making my projects easy to explore and run.
+## ↗ What I'm focused on
 
----
-
-[Projects](https://github.com/zack005-design?tab=repositories) · [PixelNest](https://zack005-design.github.io/webpage/)
+Turning ideas into usable interfaces, refining the small interactions, and making projects easy to explore and run.
