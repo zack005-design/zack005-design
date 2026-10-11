@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Building <b>Tally</b>, my main finance app, and creating thoughtful digital experiences.
+  Building <b>Tally</b>, my main finance app, alongside other projects in progress.
 </p>
 
 <p align="center">
@@ -21,11 +21,11 @@ Tally is my main project and current development focus. I'm still building the a
 
 [**Follow the project ↗**](https://github.com/zack005-design/Tally)
 
-## ◇ Also built
+## ◇ More work in progress
 
 ### [PixelNest](https://github.com/zack005-design/pixelnest)
 
-A visual discovery app for browsing inspiration, collecting ideas into boards, and adding your own images. Built with React, TypeScript, Vite, and Framer Motion.
+A visual discovery app in development, using React, TypeScript, Vite, and Framer Motion. The current demo includes inspiration browsing, boards, and image uploads; the project is still evolving.
 
 [Try the demo ↗](https://zack005-design.github.io/pixelnest/) &nbsp; · &nbsp; [View the code](https://github.com/zack005-design/pixelnest)
 
@@ -38,4 +38,4 @@ A visual discovery app for browsing inspiration, collecting ideas into boards, a
 
 ## ↗ Current focus
 
-Building Tally and refining the design and interactions of my projects.
+Tally is my main focus. My repositories are a collection of projects in progress—each is partially implemented and still evolving.
