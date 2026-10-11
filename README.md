@@ -3,37 +3,39 @@
 </p>
 
 <p align="center">
-  I build web experiences that bring clear design and useful interactions together.
+  Building <b>Tally</b>, my main finance app, and creating thoughtful digital experiences.
 </p>
 
 <p align="center">
-  <a href="https://zack005-design.github.io/webpage/"><b>Explore PixelNest ↗</b></a>
+  <a href="https://github.com/zack005-design/Tally"><b>Explore Tally ↗</b></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/zack005-design?tab=repositories">Browse my projects</a>
 </p>
 
-## ✦ Featured work
+## ✦ Main project
 
-### [PixelNest](https://github.com/zack005-design/webpage)
-**A home for your next idea.**
+### [Tally](https://github.com/zack005-design/Tally)
+**A finance app, currently in development.**
 
-A visual discovery app for browsing inspiration, collecting ideas into boards, and adding your own images.
+Tally is my main project and current development focus. I'm still building the app; the source code will be added to the repository as development progresses.
 
-- **Discover** — responsive masonry browsing, search, and filters.
-- **Collect** — boards, saved ideas, and image uploads.
-- **Make it yours** — appearance preferences and thoughtful motion.
+[**Follow the project ↗**](https://github.com/zack005-design/Tally)
 
-`React` · `TypeScript` · `Vite` · `Framer Motion`
+## ◇ Also built
 
-[**Try the demo ↗**](https://zack005-design.github.io/webpage/) &nbsp; · &nbsp; [View the code](https://github.com/zack005-design/webpage)
+### [PixelNest](https://github.com/zack005-design/pixelnest)
 
-## ◈ My toolkit
+A visual discovery app for browsing inspiration, collecting ideas into boards, and adding your own images. Built with React, TypeScript, Vite, and Framer Motion.
+
+[Try the demo ↗](https://zack005-design.github.io/pixelnest/) &nbsp; · &nbsp; [View the code](https://github.com/zack005-design/pixelnest)
+
+## ◈ Web toolkit
 
 | Build | Design & interaction | Workflow |
 | :--- | :--- | :--- |
 | React · TypeScript | Responsive layouts | Git · GitHub |
 | HTML · CSS | Framer Motion · Lucide | Vite |
 
-## ↗ What I'm focused on
+## ↗ Current focus
 
-Turning ideas into usable interfaces, refining the small interactions, and making projects easy to explore and run.
+Building Tally and refining the design and interactions of my projects.
