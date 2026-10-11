@@ -1,41 +1,34 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Hi, I'm Zack. Thoughtful interfaces. Useful experiences." width="100%" />
+  <img src="assets/profile-banner.svg" alt="Hi, I'm Zack. App development. Fitx, TaskLine, and Tally." width="100%" />
 </p>
 
 <p align="center">
-  Building <b>Tally</b>, my main finance app, alongside other projects in progress.
+  My focus is <b>app development</b>.<br />
+  Fitx, TaskLine, and Tally are the main projects I've worked on.
 </p>
 
 <p align="center">
   <a href="https://github.com/zack005-design/Tally"><b>Explore Tally ↗</b></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/zack005-design?tab=repositories">Browse my projects</a>
+  <a href="https://github.com/zack005-design?tab=repositories">Browse public repositories</a>
 </p>
 
-## ✦ Main project
+## ✦ My app projects
 
-### [Tally](https://github.com/zack005-design/Tally)
-**A finance app, currently in development.**
-
-Tally is my main project and current development focus. I'm still building the app; the source code will be added to the repository as development progresses.
-
-[**Follow the project ↗**](https://github.com/zack005-design/Tally)
-
-## ◇ More work in progress
-
-### [PixelNest](https://github.com/zack005-design/pixelnest)
-
-A visual discovery app in development, using React, TypeScript, Vite, and Framer Motion. The current demo includes inspiration browsing, boards, and image uploads; the project is still evolving.
-
-[Try the demo ↗](https://zack005-design.github.io/pixelnest/) &nbsp; · &nbsp; [View the code](https://github.com/zack005-design/pixelnest)
-
-## ◈ Web toolkit
-
-| Build | Design & interaction | Workflow |
+| Project | About | Status |
 | :--- | :--- | :--- |
-| React · TypeScript | Responsive layouts | Git · GitHub |
-| HTML · CSS | Framer Motion · Lucide | Vite |
+| **Fitx** | One of my main app development projects. | Work in progress |
+| **TaskLine** | One of my main app development projects. | Work in progress |
+| **[Tally](https://github.com/zack005-design/Tally)** | A finance app I'm building. | Work in progress |
 
-## ↗ Current focus
+**All three are incomplete and partially implemented.** This profile documents my development journey as the projects evolve.
 
-Tally is my main focus. My repositories are a collection of projects in progress—each is partially implemented and still evolving.
+Tally's public repository will be updated as its source is uploaded.
+
+## ◈ Development focus
+
+App development, thoughtful interfaces, and turning ideas into working applications.
+
+## ↗ Project journey
+
+I'm continuing to learn and refine my work through these app projects. Features, documentation, and implementation details will be shared as they take shape.
